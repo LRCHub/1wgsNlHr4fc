@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夏色惑星",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-01-05T08:55:32.602775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏色惑星",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/01_夏色惑星_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏色惑星",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/02_夏色惑星_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏色惑星\u0000",
+      "artist": "いきものがかり\u0000",
+      "has_synced": false,
+      "path": "select/03_夏色惑星\u0000_いきものがかり\u0000.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏色惑星",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_夏色惑星_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏色惑星",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_夏色惑星_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "夏色惑星",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_夏色惑星_いきものがかり.txt"
+    }
+  ]
+}
